@@ -1,0 +1,9 @@
+# Disable directory browsing
+Options All -Indexes
+
+php_flag engine off
+<FilesMatch "\.(?:inc|php|py|rb|js|html|xml|asp|aspx|jsp|java|cfm)$">
+ deny from all
+</FilesMatch>
+
+ 

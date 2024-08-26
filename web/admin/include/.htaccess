@@ -1,0 +1,12 @@
+# Disable directory browsing
+Options All -Indexes
+
+<FilesMatch "\.(?:xml)$">
+ deny from all
+</FilesMatch>
+
+<FilesMatch "\.(?:php)$">
+ deny from all
+</FilesMatch>
+
+ 

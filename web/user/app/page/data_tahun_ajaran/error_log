@@ -1,0 +1,2 @@
+[06-Dec-2023 15:22:57 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/nabawima/localhost.go-web.my.id/2023-2024-wulandari-absensi-sidik-jari-siswa/admin/include/koneksi/koneksi.php on line 571
+[06-Dec-2023 15:22:57 Asia/Jakarta] PHP Warning:  mysql_connect(): Headers and client library minor version mismatch. Headers:100613 Library:100505 in /home/nabawima/localhost.go-web.my.id/2023-2024-wulandari-absensi-sidik-jari-siswa/admin/include/koneksi/koneksi.php on line 571

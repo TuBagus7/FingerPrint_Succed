@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<humans>
+    <!-- MASTER MENU -->
+    <menu>
+        <id>A</id>
+        <s>0</s>
+        <t>s</t>
+        <i>fa fa-home</i>
+        <n>Home</n>
+        <l>../home/index.php</l>
+    </menu>
+    <menu>
+        <id>B1</id>
+        <s>B</s>
+        <t>s</t>
+        <i>fa fa-user</i>
+        <n>Absensi</n>
+        <l>../data_absensi/index.php</l>
+    </menu>
+    <menu>
+        <id>B7</id>
+        <s>B</s>
+        <t>s</t>
+        <i>fa fa-users</i>
+        <n>User</n>
+        <l>../data_mahasiswa/index.php</l>
+    </menu>
+    <!-- <menu><id>B3</id><s>B</s><t>s</t><i>fa fa-edit</i><n>Guru</n><l>../data_guru/index.php</l></menu> -->
+    <menu>
+        <id>B</id>
+        <s>0</s>
+        <t>m</t>
+        <i>fa fa-edit</i>
+        <n>Master Data</n>
+        <l>#</l>
+    </menu>
+    <menu>
+        <id>C</id>
+        <s>0</s>
+        <t>m</t>
+        <i>fa fa-calendar</i>
+        <n>Laporan</n>
+        <l>#</l>
+    </menu>
+
+
+
+    <!-- SUB MENU -->
+    <menu>
+        <id>B2</id>
+        <s>B</s>
+        <t>sm</t>
+        <i>fa fa-edit</i>
+        <n>Data Admin</n>
+        <l>../data_admin/index.php</l>
+    </menu>
+
+    <!--<menu>-->
+    <!--    <id>B4</id>-->
+    <!--    <s>B</s>-->
+    <!--    <t>sm</t>-->
+    <!--    <i>fa fa-edit</i>-->
+    <!--    <n>Data Jadwal</n>-->
+    <!--    <l>../data_jadwal/index.php</l>-->
+    <!--</menu>-->
+    <!-- <menu>
+        <id>B5</id>
+        <s>B</s>
+        <t>sm</t>
+        <i>fa fa-edit</i>
+        <n>Data Kelas</n>
+        <l>../data_kelas/index.php</l>
+    </menu> -->
+    <!-- <menu><id>B6</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Matapelajaran</n><l>../data_matapelajaran/index.php</l></menu> -->
+
+    <!-- <menu>
+        <id>B8</id>
+        <s>B</s>
+        <t>sm</t>
+        <i>fa fa-edit</i>
+        <n>Data Tahun Ajaran</n>
+        <l>../data_tahun_ajaran/index.php</l>
+    </menu> -->
+    <!-- <menu><id>B8</id><s>B</s><t>sm</t><i>fa fa-edit</i><n>Data Jurusan</n><l>../data_jurusan/index.php</l></menu> -->
+    <!-- SUB MENU -->
+    <menu>
+        <id>C1</id>
+        <s>C</s>
+        <t>sm</t>
+        <i>fa fa-calendar</i>
+        <n>Data Absensi </n>
+        <l>../data_absensi/print.php</l>
+    </menu>
+    <!-- <menu>
+        <id>C1</id>
+        <s>C</s>
+        <t>sm</t>
+        <i>fa fa-calendar</i>
+        <n>Data Absensi Harian</n>
+        <l>../data_absensi/print1.php</l>
+    </menu> -->
+    <!-- <menu><id>C3</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Guru</n><l>../data_guru/index.php?input=cetak</l></menu> -->
+
+    <!-- <menu><id>C6</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Data Matapelajaran</n><l>../data_matapelajaran/index.php?input=cetak</l></menu> -->
+    <menu>
+        <id>C7</id>
+        <s>C</s>
+        <t>sm</t>
+        <i>fa fa-calendar</i>
+        <n>Data User</n>
+        <l>../data_mahasiswa/index.php?input=cetak</l>
+    </menu>
+    <!-- <menu><id>C8</id><s>C</s><t>sm</t><i>fa fa-calendar</i><n>Laporan Jumlah Hadir</n><l>../data_absensi/index.php?input=laporan_jumlah_hadir</l></menu> -->
+
+    <!-- SUB MENU -->
+    <menu>
+        <id>X1</id>
+        <s>X</s>
+        <t>x</t>
+        <i>fa fa-home</i>
+        <n>Data Absensi</n>
+        <l>../data_absensi/index.php</l>
+    </menu>
+    <menu>
+        <id>X2</id>
+        <s>X</s>
+        <t>x</t>
+        <i>fa fa-home</i>
+        <n>Data Admin</n>
+        <l>../data_admin/index.php</l>
+    </menu>
+    <menu>
+        <id>X3</id>
+        <s>X</s>
+        <t>x</t>
+        <i>fa fa-home</i>
+        <n>Data Guru</n>
+        <l>../data_guru/index.php</l>
+    </menu>
+    <menu>
+        <id>X4</id>
+        <s>X</s>
+        <t>x</t>
+        <i>fa fa-home</i>
+        <n>Data Jadwal</n>
+        <l>../data_jadwal/index.php</l>
+    </menu>
+    <menu>
+        <id>X5</id>
+        <s>X</s>
+        <t>x</t>
+        <i>fa fa-home</i>
+        <n>Data Kelas</n>
+        <l>../data_kelas/index.php</l>
+    </menu>
+    <menu>
+        <id>X6</id>
+        <s>X</s>
+        <t>x</t>
+        <i>fa fa-home</i>
+        <n>Data Matapelajaran</n>
+        <l>../data_matapelajaran/index.php</l>
+    </menu>
+    <menu>
+        <id>X7</id>
+        <s>X</s>
+        <t>x</t>
+        <i>fa fa-home</i>
+        <n>Data Siswa</n>
+        <l>../data_mahasiswa/index.php</l>
+    </menu>
+    <menu>
+        <id>X8</id>
+        <s>X</s>
+        <t>x</t>
+        <i>fa fa-home</i>
+        <n>Data Tahun Ajaran</n>
+        <l>../data_tahun_ajaran/index.php</l>
+    </menu>
+</humans>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<humans>
+	<users>
+		<!-- Versi & Tmp -->
+		<id>1</id>
+		<tmp>tmp 22</tmp>
+		<lg>tmp 47</lg>
+		<v>RQ.2019.04</v>
+
+		<!-- Meta -->
+		<charset>utf-8</charset>
+		<keywords></keywords>
+		<description></description>
+		<Author></Author>
+		<icon>../../../data/image/logo/logo.png</icon>
+		<situs></situs>
+
+		<!-- Settings Aplikasi -->
+		<logo>../../../data/image/logo/logo.png</logo>
+		<imageerror>../../../data/image/error/file.png</imageerror>
+		<avatar>../../../data/image/avatar/avatar11.png</avatar>
+		<background>../../../data/image/background/background1.png</background>
+		<bg_login>../data/image/background/bglogin.png</bg_login>
+
+		<slide1>admin/data/image/background/background1.png</slide1>
+		<slide2>admin/data/image/background/background1.png</slide2>
+		<slide3>admin/data/image/background/background1.png</slide3>
+
+		<judul>Absensi Siswa Berbasis Fingerprint</judul>
+		<objek>Absensi Siswa Berbasis Fingerprint</objek>
+		<alamat>Jakarta</alamat>
+		<telepon>08XX-XXXX-XXXX</telepon>
+		<email>XXXX@gmail.com</email>
+
+		<facebook>#</facebook>
+		<google>#</google>
+		<twitter>#</twitter>
+		<instagram>#</instagram>
+		<linkedin>#</linkedin>
+		<youtube>#</youtube>
+		<maps_x>#</maps_x>
+		<maps_y>#</maps_y>
+
+		<nama_aplikasi>Absensi Siswa Berbasis Fingerprint</nama_aplikasi>
+		<keterangan_aplikasi>%keterangan_aplikasi</keterangan_aplikasi>
+		<tahun>2023</tahun>
+		<copyright>CopyRight © 2023 - Absensi Siswa Berbasis Fingerprint</copyright>
+
+		<c_siapa>jenenge</c_siapa>
+		<siapa>Adminimtrator</siapa>
+		<sambutan>Selamat Datang siapa Di Aplikasi br judul</sambutan>
+
+		<!-- Settings Tampilan -->
+		<meta_head>1</meta_head>
+		<combosearch>1</combosearch>
+		<grafik>1</grafik>
+		<kata_sambutan>1</kata_sambutan>
+		<gambar_background>1</gambar_background>
+		<menu_setting>1</menu_setting>
+		<menu_admin>1</menu_admin>
+		<ckeditor>1</ckeditor>
+		<popup>1</popup>
+		<seo>0</seo>
+		<ekstensi_dilarang>php','asp','sql','js','css','py','php4</ekstensi_dilarang>
+		<classe></classe>
+
+		<!-- Settings Laporan -->
+		<logo_laporan1>../../../data/image/logo/logo.png</logo_laporan1>
+		<logo_laporan2>../../../data/image/logo/logo.png</logo_laporan2>
+		<ttd>TTD</ttd>
+		<wilayah>Jakarta</wilayah>
+
+		<!-- Login -->
+		<tabel_login>data_admin</tabel_login>
+		<field_username_login>username</field_username_login>
+		<field_password_login>password</field_password_login>
+		<pesan_gagal>Username/Password yang anda masukan salah..!</pesan_gagal>
+		<url_desain>desain-bootstrap.php</url_desain>
+
+
+	</users>
+</humans>
